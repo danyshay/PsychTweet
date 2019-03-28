@@ -1,0 +1,11 @@
+Predicting Dark Triad Personality Traits from Twitter Usage and a Linguistic Analysis of Tweets
+https://ieeexplore.ieee.org/abstract/document/6406767
+
+Personality Traits on Twitter 
+http://www.aclweb.org/anthology/W15-2913
+
+Personality types
+https://www.16personalities.com/personality-types
+
+Data set
+https://www.kaggle.com/kazanova/sentiment140
